@@ -5,4 +5,4 @@ you can choose the player as 1 or 2
 Players unit is represented by X and computer player is represented by 0
 minimax algorithm is implemented for computer intelligence to think and do optimal move calculating the strategical moves to block player win and create computer win.
 insertion counts from 0 to 9 from top left to bottom right.(left to right in each row)
-5 consecutive same entry of the value draws the game.
+5 consecutive entry of the same value draws the game.
